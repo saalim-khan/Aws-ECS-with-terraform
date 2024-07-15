@@ -7,4 +7,4 @@
 
 </body>
 </html>
-file:///home/saalim/Desktop/ECS/Terraform-Complete--layout%20for-Project/plan.jpg
+https://github.com/user-attachments/assets/c71fcfc2-ed1c-4fe6-9b79-ecf42340f630
