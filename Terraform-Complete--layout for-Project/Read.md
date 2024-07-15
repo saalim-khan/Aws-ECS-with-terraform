@@ -1,1 +1,1 @@
-![Plan](<Screenshot from 2024-07-07 22-39-34.png>)
+<img src="Screenshot from 2024-07-07 22-39-34.png" alt="Plan">
